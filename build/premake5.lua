@@ -112,7 +112,7 @@ solution ( solution_name )
     kind ( _kind._console )
     links
       {
-        project_name
+        ""
       }
     files 
       {
